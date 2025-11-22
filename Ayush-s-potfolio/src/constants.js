@@ -39,7 +39,7 @@ import agcLogo from './assets/company_logo/agc_logo.png';
 import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Education Section Logo's
-import bsaLogo from './assets/education_logo/bsa_logo.png';
+import bsaLogo from './assets/education_logo/bsa_Logo.png';
 import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
