@@ -1,9 +1,5 @@
 {
-  "version": 2,
-  "builds": [
-    { "src": "Ayush-s-potfolio/package.json", "use": "@vercel/node" }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "Ayush-s-potfolio/$1" }
+  "rewrites": [
+    { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
